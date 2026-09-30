@@ -1,0 +1,23 @@
+{
+  "name": "aqa-hillel-ind",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Mariina1392/aqa-hillel-ind#readme",
+  "bugs": {
+    "url": "https://github.com/Mariina1392/aqa-hillel-ind/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mariina1392/aqa-hillel-ind.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^6.0.1"
+  }
+}
